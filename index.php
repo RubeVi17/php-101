@@ -51,7 +51,5 @@ foreach($colores as $color){
     //echo $color.'<br>';
 }
 
-var_dump
-
 
 ?>
